@@ -1,9 +1,18 @@
 # README 
 
 # Longest Word Game - MVC implemenetation with Rails
+
+##How to launch
+```console
+foo@bar:~$ whoami
+foo
+```
+
 ## Specifications for Project 
 * A page to display the game settings (random letters), with a form for the user to type a word. A button to submit this form.
 * A page receiving this form, computing the user score and displaying it.
+
+Basic styling with boostrap.
 
 
 ## User View of front page of application
