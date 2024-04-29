@@ -2,9 +2,9 @@
 
 # Longest Word Game - MVC implemenetation with Rails
 
-##How to launch
+## How to launch
 ```console
-foo@bar:~$ whoami
+foo@bar:~$ rails server
 foo
 ```
 
