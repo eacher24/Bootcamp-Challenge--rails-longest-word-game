@@ -4,7 +4,7 @@
 
 ## How to launch
 ```console
-foo@bar:~$ rails server
+bash:~$ rails server
 
 ```
 
