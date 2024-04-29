@@ -1,6 +1,6 @@
 # README 
 
-# Longest Word Game - MVC implemenetation with Rails
+# Longest Word Game - MVC implementation with Rails
 
 ## How to launch
 ```console
