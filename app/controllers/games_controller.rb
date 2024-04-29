@@ -1,9 +1,11 @@
 class GamesController < ApplicationController
   def new
-    @Letters = ('A'..'Z').to_a.sample(10)
+    @letters = ('A'..'Z').to_a.sample(10)
   end
 
   def score
     @guess = params[:word]
+    @letters = params[:letters]
+
   end
 end
