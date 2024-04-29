@@ -5,7 +5,7 @@
 ## How to launch
 ```console
 foo@bar:~$ rails server
-foo
+
 ```
 
 ## Specifications for Project 
